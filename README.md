@@ -1,4 +1,4 @@
-# amma-csi-pain-prediction
+# amma-csi-sensing
 
 Contactless WiFi CSI sensing for nocturnal movement and (eventually) pre-onset pain guarding — built to monitor my mother's chronic sciatic pain without a camera or wearable in her room.
 
